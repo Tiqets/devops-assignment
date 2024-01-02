@@ -7,12 +7,15 @@ This repository contains a very simple flask application written in Python.
 Your goal is to improve this application to be able to run in kubernetes.
 
 
+Please do not fork the repo or create pull requests: That would give away the
+solution to future candidates. Please create a new repo and copy the content in
+your new repo workdir.
+
 ## Deliverables
 
 - New files and modifications to the application to be able to run in Minikube (Linux) or Docker desktop for Mac (macOS)
 - Instructions on how to run the application
 - BONUS: configure GitLab CI
-
 
 ## Notes
 
